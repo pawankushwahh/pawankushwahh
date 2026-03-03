@@ -8,8 +8,7 @@
 ## 🚀 About Me
 
 - 🧠 Currently learning **Data Structures and Algorithms (DSA)**
-- 👨‍💻 Participated in national-level hackathons:
-  - 🏅 **Smart India Hackathon (SIH) 2024** – 4th Position at **SRMU Lucknow** (Semester 1)
+- 👨‍💻 Participated in national-level hackathon:
   - 💻 **Hackofestia 6.0 (2025)** by IIIT Lucknow & UP Govt – Selected for **Pre-Final Round** (Semester 2)
 - ⚒️ Built several real-world projects in the past year (check pinned repos below)
 - 🌱 Eager to collaborate, explore, and grow with new tech and ideas
