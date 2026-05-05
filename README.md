@@ -67,7 +67,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pawan-kushwah-a45944248/">
+  <a href="https://in.linkedin.com/in/pawan-kushwah-a45944248">
     <img src="https://img.shields.io/badge/LinkedIn-Pawan%20Kushwah-blue?style=flat&logo=linkedin"/>
   </a>
   &nbsp;
