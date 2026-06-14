@@ -46,13 +46,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🥉 **SIH 2024** — 4th Place at Shri Ramswaroop Memorial University, Lucknow
-- ⚙️ **Hackofestia 6.0** — Selected for Pre-Final Round (National level, IIIT Lucknow & UP Govt)
-- 📚 **Jawahar Navodaya Vidyalaya** — Free residential school merit scholarship (2016–2023)
-
----
 
 ## 📈 GitHub Stats
 
